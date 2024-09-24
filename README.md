@@ -1,3 +1,7 @@
+This is Russian translation of a book
+To contact translator: glevse@yandex.com
+
+
 ![Book Cover](BookCover.png)
 
 [PDF of the book contents](LearnJavaForFTC.pdf)
